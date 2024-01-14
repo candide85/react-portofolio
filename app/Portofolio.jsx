@@ -37,7 +37,7 @@ export default function Portofolio() {
         </nav>
         <div className=' text-center p-10 flex flex-col justify-items-center'>
           <h2 className=' text-6xl text-teal-600 font-medium py-2 md:text-6xl mb-8'>Joel Assagou</h2>
-          <h3 className=' text-3xl py-2 md:text-3xl dark:text-white font-medium'>Software Developer - FullStack Developer UX UI Designer.</h3>
+          <h3 className=' text-3xl py-2 md:text-3xl dark:text-white font-medium'>Software Developer - FullStack Developer - UX UI Designer.</h3>
           <p className=' py-5 leading-8 text-gray-800 md:text-2xl dark:text-white'>
             I am a software developer, a good team player, dedicated to learn new things,
             hard worker; using tech to make life better.
